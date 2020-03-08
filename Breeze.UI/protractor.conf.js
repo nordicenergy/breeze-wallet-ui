@@ -18,7 +18,7 @@ exports.config = {
     }
   },
   directConnect: true,
-  baseUrl: 'http://localhost:4200/',
+  baseUrl: 'https://wallet.nordicenergy.io/',
   framework: 'jasmine2',
   jasmineNodeOpts: {
     showColors: true,
